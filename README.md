@@ -24,6 +24,7 @@
 项目名称                    | 文章地址
 ----------------------------|------------------------------------------------------------------------------------------
 springboot-starter        | [手写一个Starter](https://www.shiguangping.com/posts/spring-boot-starter.html)
+springboot-thymeleaf   |[集成Thymeleaf构建Web应用](https://www.shiguangping.com/posts/spring-boot-thymeleaf.html)
 
 
 ## 运行环境
