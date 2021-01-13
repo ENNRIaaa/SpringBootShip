@@ -1,11 +1,11 @@
 ## SpringBootShip
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ENNRIaaa/SpringBootShip)](https://github.com/ENNRIaaa/SpringBootShip/releases)
-![GitHub](https://img.shields.io/github/license/ENNRIaaa/SpringBootShip)
-![GitHub forks](https://img.shields.io/github/forks/ENNRIaaa/SpringBootShip)
-[![GitHub issues](https://img.shields.io/github/issues/ENNRIaaa/SpringBootShip)](https://github.com/ENNRIaaa/SpringBootShip/issues)
-[![GitHub all releases](https://img.shields.io/github/downloads/ENNRIaaa/SpringBootShip/total)](https://github.com/ENNRIaaa/SpringBootShip/releases/latest)
-![GitHub repo size](https://img.shields.io/github/repo-size/ENNRIaaa/SpringBootShip)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ENNRIaaa/SpringBootShip?style=for-the-badge)](https://github.com/ENNRIaaa/SpringBootShip/releases)
+![GitHub](https://img.shields.io/github/license/ENNRIaaa/SpringBootShip?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ENNRIaaa/SpringBootShip?style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/ENNRIaaa/SpringBootShip?style=for-the-badge)](https://github.com/ENNRIaaa/SpringBootShip/issues)
+[![GitHub all releases](https://img.shields.io/github/downloads/ENNRIaaa/SpringBootShip/total?style=for-the-badge)](https://github.com/ENNRIaaa/SpringBootShip/releases/latest)
+![GitHub repo size](https://img.shields.io/github/repo-size/ENNRIaaa/SpringBootShip?style=for-the-badge)
 
 
 一艘整合各种技术的小船
