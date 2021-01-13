@@ -2,10 +2,13 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ENNRIaaa/SpringBootShip?style=for-the-badge)](https://github.com/ENNRIaaa/SpringBootShip/releases)
 ![GitHub](https://img.shields.io/github/license/ENNRIaaa/SpringBootShip?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/ENNRIaaa/SpringBootShip?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ENNRIaaa/SpringBootShip?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/ENNRIaaa/SpringBootShip?style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/ENNRIaaa/SpringBootShip?style=for-the-badge)](https://github.com/ENNRIaaa/SpringBootShip/issues)
 [![GitHub all releases](https://img.shields.io/github/downloads/ENNRIaaa/SpringBootShip/total?style=for-the-badge)](https://github.com/ENNRIaaa/SpringBootShip/releases/latest)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ENNRIaaa/SpringBootShip?style=for-the-badge)
+![I want be useful](https://img.shields.io/badge/-I%20want%20be%20useful-green?style=for-the-badge)
 
 
 一艘整合各种技术的小船
