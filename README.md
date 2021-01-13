@@ -1,10 +1,10 @@
 ## SpringBootShip
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ENNRIaaa/SpringBootShip)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ENNRIaaa/SpringBootShip)](https://github.com/ENNRIaaa/SpringBootShip/releases)
 ![GitHub](https://img.shields.io/github/license/ENNRIaaa/SpringBootShip)
 ![GitHub forks](https://img.shields.io/github/forks/ENNRIaaa/SpringBootShip)
-![GitHub issues](https://img.shields.io/github/issues/ENNRIaaa/SpringBootShip)
-![GitHub all releases](https://img.shields.io/github/downloads/ENNRIaaa/SpringBootShip/total)
+[![GitHub issues](https://img.shields.io/github/issues/ENNRIaaa/SpringBootShip)](https://github.com/ENNRIaaa/SpringBootShip/issues)
+[![GitHub all releases](https://img.shields.io/github/downloads/ENNRIaaa/SpringBootShip/total)](https://github.com/ENNRIaaa/SpringBootShip/releases/latest)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ENNRIaaa/SpringBootShip)
 
 
@@ -20,16 +20,17 @@
 
 项目名称                    | 文章地址
 ----------------------------|------------------------------------------------------------------------------------------
-springboot-thymeleaf        | [手写一个Starter](https://www.shiguangping.com/posts/spring-boot-starter.html)
+springboot-starter        | [手写一个Starter](https://www.shiguangping.com/posts/spring-boot-starter.html)
 
 
 ## 运行环境
 
 环境    | 版本
 -------|-------
-JDK    |1.8
-MAVEN  |3.6.5
-SprintBoot   |2.0.4
+IDEA   |2020.3
+JDK   |1.8
+MAVEN   |3.6.3
+SprintBoot   |2.4.1
 
 
 ## 问题反馈
