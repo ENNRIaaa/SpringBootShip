@@ -11,7 +11,7 @@
 ![I want be useful](https://img.shields.io/badge/-I%20want%20be%20useful-green?style=for-the-badge)
 
 
-一艘整合各种技术的小船
+一艘学习SpringBoot的小船
 
 ## 简介
 
@@ -25,6 +25,7 @@
 ----------------------------|------------------------------------------------------------------------------------------
 springboot-starter        | [手写一个Starter](https://www.shiguangping.com/posts/spring-boot-starter.html)
 springboot-thymeleaf   |[集成Thymeleaf构建Web应用](https://www.shiguangping.com/posts/spring-boot-thymeleaf.html)
+springboot-exception-handle  | [统一异常处理](https://www.shiguangping.com/posts/spring-boot-exception-handle.html)
 
 
 ## 运行环境
@@ -39,7 +40,7 @@ SprintBoot   |2.4.1
 
 ## 问题反馈
 
-1. 欢迎提issue一起完善这个项目
+1. 提issue
 1. 个人主站: https://www.shiguangping.com/
 
 ## 许可证
