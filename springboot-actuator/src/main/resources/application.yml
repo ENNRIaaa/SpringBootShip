@@ -1,0 +1,21 @@
+# 服务端口
+server:
+  port: 8081
+
+# Actuator配置
+management:
+  # 健康状态显示详细信息
+  endpoint:
+    health:
+      show-details: always
+  # 设置Actuator要暴露的端点，*代表全部
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+# Actuator信息描述
+info.name: spring-boot-actuator
+info.auth: liyan
+info.desc: SpringBoot使用Actuator项目示例
+info.date: 2021.2.24
