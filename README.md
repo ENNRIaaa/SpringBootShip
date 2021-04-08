@@ -23,10 +23,10 @@
 
 项目名称                    | 文章地址
 ----------------------------|------------------------------------------------------------------------------------------
-springboot-starter        | [手写一个Starter](https://www.shiguangping.com/post/spring-boot-starter.html)
-springboot-thymeleaf   |[集成Thymeleaf构建Web应用](https://www.shiguangping.com/post/spring-boot-thymeleaf.html)
-springboot-exception-handle  | [统一异常处理](https://www.shiguangping.com/post/spring-boot-exception-handle.html)
-springboot-actuator     |[SpringBoot应用监控Actuator](https://www.shiguangping.com/post/spring-boot-actuator.html)
+springboot-starter        | [手写一个Starter](https://www.shiguangping.com/spring-boot-starter)
+springboot-thymeleaf   |[集成Thymeleaf构建Web应用](https://www.shiguangping.com/spring-boot-thymeleaf)
+springboot-exception-handle  | [统一异常处理](https://www.shiguangping.com/spring-boot-exception-handle)
+springboot-actuator     |[SpringBoot应用监控Actuator](https://www.shiguangping.com/spring-boot-actuator)
 
 
 ## 运行环境
